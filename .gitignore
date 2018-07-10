@@ -8,7 +8,6 @@
 
 # production
 /build
-/src/images
 /src/emailConfig.js
 .env
 # misc

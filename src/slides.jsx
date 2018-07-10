@@ -40,7 +40,7 @@ const items = [
   {
     src: gettingSwarm,
     altText: 'Slide 2',
-    caption: 'Thankfully, we were able to retrieve the swarm and get our bees back!'
+    caption: 'Our honey will make a fine addition to your collection!'
   },
   {
     src: bee2,
