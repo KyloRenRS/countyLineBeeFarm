@@ -10,6 +10,7 @@ import MediaQuery from 'react-responsive';
 import bee from './images/beeBack.jpg';
 import bee1 from './images/bee1.jpg';
 import bee2 from './images/bee2.jpg';
+import bee3 from './images/bee3.jpg';
 import swarm from './images/beeSwarm2.jpg'
 import originalHives from './images/originalHives.jpg'
 import cuttingComb from './images/cuttingComb.jpg';
@@ -28,7 +29,7 @@ const items = [
     caption: 'Setting up our first hives in the spring of 2017'
   },
   {
-    src: bee1,
+    src: bee3,
     altText: 'Slide 2',
     caption: 'Some of our original hardworking bees!'
   },
